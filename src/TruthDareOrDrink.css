@@ -1,0 +1,40 @@
+/* TruthDareOrDrink.css */
+.truth-dare-drink-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .task-container {
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .task-text {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    color: #333333;
+  }
+  
+  .generate-button {
+    padding: 12px 24px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .generate-button:hover {
+    background-color: #0056b3;
+  }
+  
